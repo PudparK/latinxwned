@@ -18,7 +18,7 @@ export default function Home() {
           We're building a network to help folx find <span className="md:block">Latinx owned businesses.</span>
         </p>
         <a href="https://mailchi.mp/69ade872cfd3/latinxwned-signup
-        " className="bg-blue-400 hover:bg-blue-500 text-white font-bold py-2 px-4 rounded mt-6">Stay Tuned</a>
+        " className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded mt-6">Stay Tuned</a>
       </main>
 
       {/*<footer className="flex items-center justify-center w-full h-24 border-t">
