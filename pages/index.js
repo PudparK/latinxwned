@@ -14,7 +14,7 @@ export default function Home() {
           <span className="text-blue-400">latinxwned.com</span>
         </h1>
 
-        <p className="mt-3 text-2xl">
+        <p className="mt-3 text-2xl text-gray-500">
           We're building a network to help folx find <span className="md:block">Latinx owned businesses.</span>
         </p>
         <a href="https://mailchi.mp/69ade872cfd3/latinxwned-signup
